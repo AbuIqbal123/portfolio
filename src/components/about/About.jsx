@@ -15,7 +15,7 @@ const About = () => {
         <div className="about__data">
           <Info />
           <p className="about__description">
-            Junior Software Engineer, I have worked at Zing Dev for 13 months
+            As a Junior Software Engineer, I have worked at Zing Dev for 13 months
             building Twilio Flex solutions for reputable clients.
           </p>
 
